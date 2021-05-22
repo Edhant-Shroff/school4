@@ -1,0 +1,91 @@
+marquee {
+    background-color: aqua;
+    font-size: 18px;
+    width=100%;
+    direction=left;
+    height=5%;
+}
+
+#school {
+    width: 900px;
+    height: 600px;
+    text-align: center;
+}
+
+#map {
+    float: left;
+}
+
+#details {
+    float: right;
+
+}
+
+#image {
+    width: 60%;
+    height: 40%;
+}
+
+#container {
+    margin-top: 40px;
+}
+
+#travel_mainDiv {
+    border: 1px solid black;
+    float: left;
+    widows: 33.33%;
+    padding: 5px;
+}
+
+#travel_mainDiv img {
+    width: 100%;
+    height: 300px;
+}
+
+#travel_mainDiv hr {
+    width: 100%;
+}
+
+#travel_mainDiv h5,
+#travel_mainDiv p,
+#travel_mainDiv h4 {
+    margin-left: 15px;
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_head {
+    width: 100%;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    display: inline-block;
+}
+
+.achievementsID {
+    padding-bottom: 10px;
+}
+
+#img12 {
+    width: 100px;
+}
+
+#AI {
+    font-size: 30px;
+}
+
+#img2 {
+    height: 48%;
+}
+
+#hh {
+    height: 100%;
+}
